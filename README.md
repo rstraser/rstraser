@@ -6,8 +6,6 @@ I use programming to address whatever problems may come my way, conducting analy
 
 
 ### 👨‍💻 What I work on
-
-Themes of my research include: 
 <!-- THEMES-LIST:START -->
 - Food access and secuity
 - Ecosystem services in agriculture

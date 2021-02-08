@@ -7,7 +7,7 @@ I use programming to address whatever problems may come my way, conducting analy
 
 ### 👨‍💻 What I work on
 <!-- THEMES-LIST:START -->
-- Food access and secuity
+- Food access and security
 - Ecosystem services in agriculture
 - Data science for good
 <!-- THEMES-LIST:END -->

@@ -1,4 +1,4 @@
-### 👋 Hello, I'm [Rob Straser](https://www.robstraser.com)!
+### 👋 Hi, I'm [Rob Straser](https://www.robstraser.com)!
 
 In short, I'm a bug nerd that uses data to better inform decision makers. I apply laboratory techniques, field observations, and data science to gain novel insight to problems that affect crops, organisms, and the environment.
 

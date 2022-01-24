@@ -1,14 +1,14 @@
 ### 👋 Hi, I'm [Rob Straser](https://www.robstraser.com)!
 
-In short, I'm a bug nerd that uses data to better inform decision makers. I apply laboratory techniques, field observations, and data science to gain novel insight to problems that affect crops, organisms, and the environment.
+In short, I'm a bug nerd that uses data to better inform decision makers. I apply laboratory techniques, field observations, and data science to gain novel insight to problems that affect organisms and the environment.
 
 I use programming to address whatever problems may come my way, conducting analyses on topics that interest me ✨.
 
 
 ### 👨‍💻 What I work on
 <!-- THEMES-LIST:START -->
-- Food access and security
-- Ecosystem services in agriculture
+- Sustainable pest management
+- Ecosystem services & conservation
 - Data science for good
 <!-- THEMES-LIST:END -->
 

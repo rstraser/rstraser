@@ -1,6 +1,6 @@
 ### Hi, I'm Rob Straser!
 
-In short, I'm a bug nerd that uses data to better inform decision makers. I apply data science, visualization, along with laboratory and field observations, to gain insight to problems that affect people and the environment.
+In short, I'm an ecologist that uses data to better inform decision makers. I apply data science, visualization, along with laboratory and field observations, to gain insight to problems that affect people and the environment.
 
 
 ### 🌎 Find me elsewhere

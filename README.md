@@ -1,8 +1,6 @@
-### 👋 Hi, I'm [Rob Straser](https://www.robstraser.com)!
+### Hi, I'm Rob Straser!
 
-In short, I'm a bug nerd that uses data to better inform decision makers. I apply laboratory techniques, field observations, and data science to gain novel insight to problems that affect organisms and the environment.
-
-I use programming to address whatever problems may come my way, conducting analyses on topics that interest me ✨.
+In short, I'm a bug nerd that uses data to better inform decision makers. I apply data science, visualization, along with laboratory and field observations, to gain insight to problems that affect people and the environment.
 
 
 ### 🌎 Find me elsewhere

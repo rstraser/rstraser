@@ -1,4 +1,4 @@
-### Hi, I'm Rob Straser!
+### Hi, my name is Rob Straser!
 
 In short, I'm an ecologist that uses data to better inform decision makers on problems that affect people and the environment.
 
